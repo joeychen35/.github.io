@@ -1,5 +1,7 @@
 ## Welcome to Po Chiao's GitHub Pages
 
+Hi all. I am a Master of Science in Business Analytics student at Brandeis University and a graduate of the University of Iowa with a bachelor’s degree in accounting and finance. I have a long fascination with data, computer language, and modeling. I am proficient in data extraction, data wrangling, data visualization and building machine learning models for prediction with R, Python and SQL. You can find my machine learning and data analysis project below. Thanks. 
+
 ### Machine Learning Project with R
 
 1. [IMDB Movie Gross office Prediction](https://github.com/joeychen35/R-Project/blob/master/Movie_Box_Office_Prediction.Rmd)
