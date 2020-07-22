@@ -4,7 +4,7 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 ### Machine Learning Project with R
 
-1. [IMDB Movie Gross office Prediction](https://github.com/joeychen35/R-Project/blob/master/Movie_Box_Office_Prediction.Rmd)
+1. [IMDB Movie Gross office Prediction](https://joeychen35.github.io/R-Project/Final-Project-V3.html)
 
 2. [Energy Usage Forecasting](https://github.com/joeychen35/R-Project/blob/master/Energy_Usage_Forecasting.Rmd)
 
