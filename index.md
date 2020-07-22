@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Machine Learning Project with R
 
 1. IMDB Movie Gross office Prediction
-[Project Link]
+\n [Project Link]
 
 2. Energy Efficiency Predicition
 [Project Link]
