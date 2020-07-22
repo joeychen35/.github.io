@@ -26,4 +26,4 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 ### Miscellaneous 
 1. [SQL LeetCode Solution](https://github.com/joeychen35/Leetcode-Solution)
 
-2. [World Data Visualization with R](https://github.com/joeychen35/R-Project/blob/master/A2_GetDataEditCode.Rmd)
+2. [World Data Visualization with R](https://github.com/joeychen35/R-Project/blob/master/docs/Assignment%202.pdf)
