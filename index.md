@@ -1,4 +1,4 @@
-#### Welcome to Po Chiao's GitHub Pages
+## Welcome to Po Chiao's GitHub Pages
 
 ### Machine Learning Project with R
 
