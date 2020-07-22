@@ -11,9 +11,9 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 ### SQL Data Analyst Project
 
-1. [Customer behavior data analyst project (Creating Database)](https://github.com/joeychen35/SQL-Project/blob/master/Create_database.sql)
+1. [Customer Behavior Data Analyst Project (Creating Database)](https://github.com/joeychen35/SQL-Project/blob/master/Create_database.sql)
 
-2. [Customer behavior data analyst project (Queries)](https://github.com/joeychen35/SQL-Project/blob/master/Customer_Behavior_Queries.sql)
+2. [Customer Behavior Data Analyst Project (Queries)](https://github.com/joeychen35/SQL-Project/blob/master/Customer_Behavior_Queries.sql)
 
 
 ### Web Scraping Tutorial
