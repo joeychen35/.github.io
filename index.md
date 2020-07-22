@@ -1,31 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/joeychen35/.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Welcome to Po Chiao's GitHub Pages
 
 ### Machine Learning Project with R
 
-1. IMDB Movie Gross office Prediction
+1. [IMDB Movie Gross office Prediction](https://github.com/joeychen35/R-Project/blob/master/Movie_Box_Office_Prediction.Rmd)
 
-[Project Link]
+2. [Energy Usage Forecasting](https://github.com/joeychen35/R-Project/blob/master/Energy_Usage_Forecasting.Rmd)
 
-2. Energy Efficiency Predicition
-
-[Project Link]
 
 ### SQL Data Analyst Project
 
-1. Customer behavior data analyst project
+1. [Customer behavior data analyst project (Creating Database)](https://github.com/joeychen35/SQL-Project/blob/master/Create_database.sql)
 
-[Project Link]
+2. [Customer behavior data analyst project (Queries)](https://github.com/joeychen35/SQL-Project/blob/master/Customer_Behavior_Queries.sql)
+
+
 
 ### Web Scraping Tutorial
 
-1. IMDB Web Crawling
+1. [IMDB Web Crawling](https://github.com/joeychen35/Web-Scraping/blob/master/IMDB%20Web%20Crawling.ipynb)
 
-[Project Link](https://github.com/joeychen35/Web-Scraping/blob/master/IMDB%20Web%20Crawling.ipynb)
+2. [NBA Player's Data](https://github.com/joeychen35/Web-Scraping/blob/master/Web%20Scraping%20Last%2020%20Regular%20Season%20NBA%20Players%20Stats.ipynb)
 
-2. NBA Player's Data
 
-[Project Link]
