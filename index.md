@@ -27,3 +27,5 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 1. [SQL LeetCode Solution](https://github.com/joeychen35/Leetcode-Solution)
 
 2. [World Data Visualization with R](https://github.com/joeychen35/R-Project/blob/master/docs/Assignment%202.pdf)
+
+3. [Rock-paper-scissors-lizard-Spock](https://github.com/joeychen35/Python-game/blob/master/Rock-paper-scissors-lizard-Spock%20.ipynb)
