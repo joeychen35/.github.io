@@ -20,14 +20,14 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 ### Web Scraping Tutorial
 
-1. [IMDB Web Crawling](https://github.com/joeychen35/Web-Scraping/blob/master/IMDB%20Web%20Crawling.ipynb)
+1. [IMDB Web Crawling (Python)](https://github.com/joeychen35/Web-Scraping/blob/master/IMDB%20Web%20Crawling.ipynb)
 
-2. [NBA Player's Data](https://github.com/joeychen35/Web-Scraping/blob/master/Web%20Scraping%20Last%2020%20Regular%20Season%20NBA%20Players%20Stats.ipynb)
+2. [NBA Player's Data (Python)](https://github.com/joeychen35/Web-Scraping/blob/master/Web%20Scraping%20Last%2020%20Regular%20Season%20NBA%20Players%20Stats.ipynb)
 
 
 ### Miscellaneous 
-1. [SQL LeetCode Solution](https://github.com/joeychen35/Leetcode-Solution)
+1. [SQL LeetCode Solution (SQL)](https://github.com/joeychen35/Leetcode-Solution)
 
-2. [World Data Visualization with R](https://github.com/joeychen35/R-Project/blob/master/docs/Assignment%202.pdf)
+2. [World Data Visualization (R)](https://github.com/joeychen35/R-Project/blob/master/docs/Assignment%202.pdf)
 
-3. [Rock-paper-scissors-lizard-Spock](https://github.com/joeychen35/Python-game/blob/master/Rock-paper-scissors-lizard-Spock%20.ipynb)
+3. [Rock-paper-scissors-lizard-Spock (Python)](https://github.com/joeychen35/Python-game/blob/master/Rock-paper-scissors-lizard-Spock%20.ipynb)
