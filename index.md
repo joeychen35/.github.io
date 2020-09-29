@@ -6,9 +6,9 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 1. [IMDB Movie Gross office Prediction (R)](https://joeychen35.github.io/R-Project/Final-Project-V3.html)
 
-2. [Energy Usage Forecasting (R)](https://github.com/joeychen35/R-Project/blob/master/Project-A2.html)
+2. [Energy Usage Forecasting (R)](https://joeychen35.github.io/R-Project/Project-A2.html)
 
-3. [Spam Filter with NLP (Python)](https://github.com/joeychen35/Python-Machine-Learning/blob/master/Machine%20Learning%20Spam%20Filter%20with%20NLP.ipynb)
+3. [Spam Filter with NLP (Python)](https://joeychen35.github.io/Python-Machine-Learning/Machine%20Learning%20Spam%20Filter%20with%20NLP.ipynb)
 
 
 ### SQL Data Analyst Project
