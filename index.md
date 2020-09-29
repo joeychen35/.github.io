@@ -8,7 +8,7 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 2. [Energy Usage Forecasting (R)](https://github.com/joeychen35/R-Project/blob/master/Energy_Usage_Forecasting.Rmd)
 
-3. [Machine Learning Spam Filter with NLP (Python)](https://github.com/joeychen35/Python-Machine-Learning/blob/master/Machine%20Learning%20Spam%20Filter%20with%20NLP.ipynb)
+3. [Spam Filter with NLP (Python)](https://github.com/joeychen35/Python-Machine-Learning/blob/master/Machine%20Learning%20Spam%20Filter%20with%20NLP.ipynb)
 
 
 ### SQL Data Analyst Project
