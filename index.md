@@ -24,8 +24,12 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 2. [NBA Player's Data (Python)](https://github.com/joeychen35/Web-Scraping/blob/master/Web%20Scraping%20Last%2020%20Regular%20Season%20NBA%20Players%20Stats.ipynb)
 
+### Dash Application 
+
+1. [IMDB Movie Searcher (Python)](https://github.com/joeychen35/Dash-app)
 
 ### Miscellaneous 
+
 1. [SQL LeetCode Solution (SQL)](https://github.com/joeychen35/Leetcode-Solution)
 
 2. [World Data Visualization (R)](https://github.com/joeychen35/R-Project/blob/master/docs/Assignment%202.pdf)
