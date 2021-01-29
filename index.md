@@ -26,9 +26,9 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 ### Dash Application 
 
-1. [IMDB Movie Searcher (Python)](https://github.com/joeychen35/Dash-app)
+1. [COVID-19 Comorbidity Dashboard (Python)](https://covid.intergendata.com/)
 
-2. [COVID-19 Comorbidity Dashboard (Python)](https://covid.intergendata.com/)
+2. [IMDB Movie Searcher (Python)](https://github.com/joeychen35/Dash-app)
 
 ### Miscellaneous 
 
