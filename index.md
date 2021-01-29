@@ -28,6 +28,8 @@ Hi all. I am a Master of Science in Business Analytics student at Brandeis Unive
 
 1. [IMDB Movie Searcher (Python)](https://github.com/joeychen35/Dash-app)
 
+2. [COVID-19 Comorbidity Dashboard](https://covid.intergendata.com/)
+
 ### Miscellaneous 
 
 1. [SQL LeetCode Solution (SQL)](https://github.com/joeychen35/Leetcode-Solution)
